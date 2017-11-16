@@ -1,2 +1,2 @@
 # BallGame
-Ball Game I am working on
+Ball Game I am working on to familiarize myself with Git.
